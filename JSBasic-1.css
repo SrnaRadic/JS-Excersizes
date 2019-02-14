@@ -7,11 +7,13 @@ body, html {
 }
 
 body {
-  background-color: #EEE;
   margin: 0;
   font-family: Arial, sans-serif;
-  color: #333333;
   line-height: 1.4;
+  height: 200px;
+  background: #002347;
+  color: #fff;
+
 }
 
 .dan, .vreme, .datum {
@@ -20,10 +22,4 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-body {
-    height: 200px;
-    background: #002347;
-
 }
